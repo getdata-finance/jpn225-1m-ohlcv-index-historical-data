@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `JPN225_1m.csv` (55,440 rows, `2026-07-07` -> `2026-09-02`, 3.72 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/jpn225)** — **5,192,657** `1m` rows (full `1m`: 5,192,657), **11 timeframes**, `2008-09-01` -> `2026-09-02`.
+> **Sample on GitHub** · `JPN225_1m.csv` (55,440 rows, `2026-07-07` -> `2026-09-02`, 3.72 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/jpn225)** — **5,192,657** `1m` rows (full `1m`: 4,718,919), **11 timeframes**, `2008-09-01` -> `2026-09-02`.
 
 ## Download sample
 
